@@ -1,0 +1,165 @@
+@font-face {
+    font-family:Harry ;
+    src: url(font/harry_p/HARRYP__.TTF);
+}
+.font-2{
+    font-family: 'Nunito', sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(85, 88, 91) ;
+    font-size: medium;
+   
+    
+}
+.parallax-container{
+    height: 120vh; 
+    margin-left: 200px;
+    margin-right: 200px;
+    
+    
+    
+    
+
+}
+
+section{
+    width: 100%;
+    height: 400px;
+    display:grid;
+    align-items: left;
+    justify-content: left;
+    
+    
+    
+}
+section .parallax-container{
+    width: 400px;
+    margin: 0 3vh;
+
+}
+.part1{
+    width: 280%;
+    height: 300px;
+    display:grid;
+    align-items: right;
+    justify-content: right;
+    
+    font-family: sans-serif;
+}
+.parallax{
+    height: fixed;
+    width: auto;
+}
+section{
+    width: 100%;
+    height: 50vh;
+    
+}
+.part2{
+    margin-left:  250px; 
+    margin-right: 250px;
+    font-size: 20px;
+   
+    display:grid;
+    align-items: center;
+    justify-content: center;
+    
+    font-family: 'Nunito', sans-serif;
+}
+section{
+    width: 100%;
+    height: 50vh;
+    
+}
+
+.part3{
+    width: 150%;
+    height: 250px;
+    display:grid;
+    align-items: right;
+    justify-content: right;
+    
+    font-family: sans-serif;
+}
+section{
+    width: 100%;
+    height: 50vh;
+    
+}
+
+.part4{
+    width: 200vh;
+    display:grid;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+}
+section{
+    width: 100%;
+    height: 50vh;
+    
+}
+.img-responsive{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    
+}
+img{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:900px;
+}
+
+.head{
+    align-items: center;
+    justify-content: center;
+    margin-left: 200px;
+}
+
+.head1{
+    background-color: #201e20;
+    margin-left: -200px; /*100*/
+    text-align: center;
+    color: #ddc3a5;
+    font-family: Harry;
+}
+.part5{
+    margin-left:  250px; 
+    margin-right: 250px;
+
+    display:grid;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 24px;
+}
+.right{
+    width: 200vh;
+    height:100px;
+    display:grid;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+}
+.part8{
+    width: 200vh;
+    height:200px;
+    display:grid;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    size: 60px;
+}
+.part9{
+    width: 160vh;
+    height:200px;
+    display:grid;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+}
